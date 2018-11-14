@@ -33,6 +33,12 @@ Take a look within the `index.html` provided for you. You will notice that there
 a given form which we'd like for you to use for creating a new todo, and a div where we'd like
 for you to place all todos. Please use the provided spaces appropriately.
 
+If you want a template for your todo, you can use this as an example:
+
+```html
+<li>My todo title <input type="checkbox"/></li>
+```
+
 ### API Documentation
 Below you can see some of the requests you can utilize for the above deliverables. This follows
 RESTful conventions.
