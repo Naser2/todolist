@@ -10,8 +10,11 @@ the deliverables to practice all that you have learned.
 Through the tool of `json-server` you will be able to use the `todos.json` 
 file as your backend. In order to make that happen, you will want to run
 the following commands:
-    $ npm install -g json-server # only if you haven't installed it already
-    $ json-server todos.json --watch
+
+```
+  $ npm install -g json-server # only if you haven't installed it already
+  $ json-server todos.json --watch
+```
 
 Your terminal should show you all available routes through the `/todos` resource.
 
